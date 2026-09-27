@@ -1,2 +1,2 @@
 # CursoPrograma-o
-Aulas / anotações  et tudo sobre o curso de programção da Prof Iasmin
+Aulas / anotações e tudo sobre o curso de programção da Prof Iasmin
